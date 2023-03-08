@@ -1,0 +1,11 @@
+S,A,B,C,D
+a,b
+S
+7
+S->aB
+S->bA
+A->a
+A->aS
+B->b
+B->bS
+B->aC
